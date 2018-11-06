@@ -1,6 +1,6 @@
 # Game engines
 
-All of this engines are free or have [MIT licence](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_MIT).
+All of this engines are free or have [MIT license](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F_MIT).
 
 You can see more [here](https://github.com/collections/game-engines).
 
@@ -49,20 +49,20 @@ You can see more [here](https://github.com/collections/game-engines).
 ... urgh ...
 
 ## [Corona](https://ru.coronalabs.com/)
-Only LUA supported
+Only LUA supported.
 
 ### Features
-* Is has russian documentaition, сука блядь
+* Is has russian documentation, сука блядь
 * Cross platform
 * All the shit we need. Particles, GUI, physics, network, etc.
 * Corona Native. You can connect any libs in any lang you want with it.
 * Lots of pluggins
-* Marketpalce for everything (music, sprites, ets.)
+* Marketplace for everything (music, sprites, ets.)
 * Publishing system
 * Hot-reload. When you're ready to test on real devices, build and deploy your app just once and then see code/assets update automatically, all over your local network
 
 ## [Defold](https://www.defold.com/)
-Only LUA supported
+Only LUA supported.
 
 ### Features
 * Cross platform
