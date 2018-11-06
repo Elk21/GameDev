@@ -4,6 +4,8 @@ All of this engines are free or have [MIT license](https://ru.wikipedia.org/wiki
 
 You can see more [here](https://github.com/collections/game-engines).
 
+**They are all pretty same. So look at theirs sites and chose one u like. Some of them have more functionality, some less, but every one has every thing we need to build and deploy our game. И я хуй знает почему даже описание для вас я пишу на английском. Короче читайте-смотрите и завтра обсудим.**
+
 
 ## [Cocos2d](http://www.cocos2d-x.org/)
 ### Langs:
@@ -69,7 +71,7 @@ Only LUA supported.
 * Hot-reload. Make changes and see them live
 * ...
 
-They are all pretty same. So look at theirs sites and chose one u like. Some of them have more functionality, some less, but every one has every thing we need to build and deploy our game. И я хуй знает почему даже описание для вас я пишу на английском. Короче читайте-смотрите и завтра обсудим.
+
 
 
 
